@@ -5,6 +5,7 @@
 int main()
 {
 
+	int a,b,c;
 
 	printf("Hello, Git!\n");
 }
