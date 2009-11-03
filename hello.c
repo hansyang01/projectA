@@ -17,4 +17,9 @@ int main()
 	printf("Hello, Git!\n");
 
 	a = b+c;
+
+	int i;
+	for(i=0;i<30;i++)
+		printf("master %d\n", i);
+
 }
